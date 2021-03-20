@@ -1,0 +1,28 @@
+h1,
+h2 {
+  background-color: rgb(228, 225, 220);
+  text-align: center;
+}
+
+body {
+  background-color: rgba(74, 145, 68, 0.842);
+  width: auto;
+  height: 40px;
+  text-align: left;
+}
+
+.teste {
+  text-align: center;
+}
+
+#botao-din {
+  display: inline-block;
+}
+
+#botao-git {
+  display: inline-block;
+}
+
+#botao-gmail {
+  display: inline-block;
+}
